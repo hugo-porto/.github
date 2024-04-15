@@ -10,10 +10,10 @@ The theme was inspired and based originally on the [Porto](https://boxmodel.dev/
 The repository structure outlined below sets up the necessary components for the Hugo Porto theme. Each repository
 serves a specific purpose:
 
-- `.github`: Contains GitHub-related files for the project.
-- `docs`: Houses the documentation for the project.
-- `theme`: The main hugo-theme repository.
-- `web`: Includes example of the hugo-porto theme usage.
+- [`.github`](https://github.com/hugo-porto/.github): Contains GitHub-related files for the project.
+- [`docs`](https://github.com/hugo-porto/docs): Houses the documentation for the project.
+- [`theme`](https://github.com/hugo-porto/theme): The main hugo-theme repository.
+- [`web`](https://github.com/hugo-porto/web): Includes example of the hugo-porto theme usage.
 
 To set up your own Hugo Porto portfolio, follow the commands in the shell script below.
 
