@@ -28,6 +28,10 @@ brew install markdownlint-cli
 The `make lint` command is used to run linting tools on our codebase. This is helpful in identifying some common and
 uncommon mistakes that are made during coding.
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 
 This project is licensed under the terms of the MIT license. For more details, see the [LICENSE](LICENSE) file in the
