@@ -1,8 +1,11 @@
-# hugo-porto/.github
+# .github
 
-This issitory thatrepository that containsfault README.md and CONTRIBUTING.md files for the organization.
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fe4b51f393984ac5b939ad1dde19ba0a)](https://app.codacy.com/gh/hugo-porto/.github/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-If a repository does not have its owne its own README.md or CONTRIBUTINuse the defau use thelt filesed hereprovided
+This is a special repository that contains the default README.md and CONTRIBUTING.md files for the organization.
+
+If a repository does not have its own README.md or CONTRIBUTING.md file, GitHub will use the default files provided
+here.
 
 The /profile/README.md appear on the organization's profile.
 
