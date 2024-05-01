@@ -4,24 +4,10 @@ Hugo Porto is a personal portfolio theme for Hugo. It features a minimalist desi
 projects and achievements. This theme is perfect for developers, designers, and creatives who want to create a simple
 yet powerful online portfolio.
 
-The theme was inspired and based originally on the [Porto](https://boxmodel.dev/templates/porto/html) theme from
-[BoxModelDev](https://boxmodel.dev/)'s guys.
+I decided to remove all code of the original [Porto](https://boxmodel.dev/templates/porto/html) website template due to
+licensing issues. The owner changed the license from license-free to MPL 2.0 with additional restrictions.
 
-The repository structure outlined below sets up the necessary components for the Hugo Porto theme. Each repository
-serves a specific purpose:
+I decided to build a new Hugo theme from scratch to ensure that I have complete freedom in my work and avoid any
+limitations.
 
-- [`.github`](https://github.com/hugo-porto/.github): Contains GitHub-related files for the project.
-- [`docs`](https://github.com/hugo-porto/docs): Houses the documentation for the project.
-- [`theme`](https://github.com/hugo-porto/theme): The main hugo-theme repository.
-- [`web`](https://github.com/hugo-porto/web): Includes example of the hugo-porto theme usage.
-
-To set up your own Hugo Porto portfolio, follow the commands in the shell script below.
-
-```shell
-mkdir hugo-porto
-cd hugo-porto
-git clone git@github.com:hugo-porto/.github.git
-git clone git@github.com:hugo-porto/docs.git
-git clone git@github.com:hugo-porto/theme.git
-git clone git@github.com:hugo-porto/web.git
-```
+Sincerelly, Andrew Molyuk
