@@ -1,7 +1,4 @@
 {
   "printWidth": 120,
-  "overrides": [
-    { "files": "*.md", "options": { "proseWrap": "always" } },
-    { "files": "LICENSE", "options": { "proseWrap": "always" } }
-  ]
+  "overrides": [{ "files": "*.md", "options": { "proseWrap": "always" } }]
 }
