@@ -1,4 +1,4 @@
-# Hugo Porto
+# hugo-porto theme
 
 Hugo-porto is a personal portfolio theme for Hugo. It features a minimalist design that focuses on showcasing your
 projects and achievements. This theme is perfect for developers, designers, and creatives who want to create a simple
