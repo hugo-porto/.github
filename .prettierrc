@@ -1,4 +1,6 @@
 {
-  "printWidth": 120,
-  "overrides": [{ "files": "*.md", "options": { "proseWrap": "always" } }]
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 140
 }

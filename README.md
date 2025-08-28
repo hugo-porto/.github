@@ -2,37 +2,30 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fe4b51f393984ac5b939ad1dde19ba0a)](https://app.codacy.com/gh/hugo-porto/.github/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-This is a special repository that contains the default README.md and CONTRIBUTING.md files for the organization.
+This repository provides the organization's default community files (for example `README.md` and `CONTRIBUTING.md`). When a repository in the organization doesn't include its own README or contributing guide, GitHub will display the defaults from this repository.
 
-If a repository does not have its own README.md or CONTRIBUTING.md file, GitHub will use the default files provided
-here.
+The file `profile/README.md` is shown on the organization's public profile. Feel free to add or update helpful information there.
 
-The /profile/README.md appear on the organization's profile.
-
-Feel free to add or update any helpful information in the /profile/README.md file.
-
-## Tools
-
-### markdownlint
-
-We are using markdownlint to lint all markdown files in the project. You can install it using brew:
-
-```shell
-brew install markdownlint-cli
-```
+This repository also includes a VS Code workspace file, `hugo-porto.code-workspace`, with recommended editor settings and workspace-level configuration — open it in VS Code to apply those settings automatically.
 
 ## Commands
 
+### make install
+
+The `make install` command installs the Node.js dependencies used by the repository tooling. This command should be run before any other commands after cloning the repository.
+
 ### make lint
 
-The `make lint` command is used to run linting tools on our codebase. This is helpful in identifying some common and
-uncommon mistakes that are made during coding.
+The `make lint` command runs linting tools on our codebase. This is helpful in identifying some common and uncommon mistakes that are made during coding.
+
+### make update
+
+The `make update` command runs npm-check-updates and reinstalls Node dependencies to update dev tooling versions.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+We love contributions! Pull requests and issues are welcome. We appreciate your help in making this project better.
 
 ## License
 
-This project is licensed under the terms of the MIT license. For more details, see the [LICENSE](LICENSE) file in the
-project root.
+MIT, see [LICENSE](./LICENSE) for details.

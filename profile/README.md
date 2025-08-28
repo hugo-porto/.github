@@ -1,14 +1,13 @@
 # hugo-porto theme
 
-Hugo-porto is a personal portfolio theme for Hugo. It features a minimalist design that focuses on showcasing your
-projects and achievements. This theme is perfect for developers, designers, and creatives who want to create a simple
-yet powerful online portfolio.
+Hugo-Porto is a minimal personal portfolio theme for Hugo that focuses on showcasing projects and achievements. It's ideal for developers, designers, and other creatives who want a simple, fast online portfolio.
 
-I decided to build a new Hugo theme from scratch to ensure that I have complete freedom in my work and avoid any
-limitations. The project is licensed under the MIT license, so you can use it for personal and commercial projects
-without any issues.
+We built this theme from scratch to keep the design and implementation flexible. The project is released under the MIT License and may be used in personal or commercial projects.
 
-If you have any questions or suggestions, feel free to contact me and I will be happy to help you. I hope you enjoy the
-theme!
+We follow high code-quality standards: automated linters, formatters, and continuous integration checks help keep the codebase consistent, well-tested, and maintainable.
 
-Sincerelly, Andrew Molyuk
+If you have questions or suggestions, please open an issue or contact us.
+
+We appreciate your feedback and contributions and hope you enjoy the theme!
+
+- Hugo-Porto Team
