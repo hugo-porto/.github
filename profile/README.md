@@ -10,4 +10,4 @@ If you have questions or suggestions, please open an issue or contact us.
 
 We appreciate your feedback and contributions and hope you enjoy the theme!
 
-- Hugo-Porto Team
+— Hugo-Porto Team

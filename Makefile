@@ -8,8 +8,8 @@ install:
 
 @PHONY: lint
 lint:
-	npx markdownlint --fix *.md profile/*.md
-	npx prettier --write *.md profile/*.md
+	npx markdownlint --fix "**/*.md" -i node_modules
+	npx prettier --write "**/*.md" "**/*.json"
 
 @PHONY: update
 update:
